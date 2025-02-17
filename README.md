@@ -1,4 +1,4 @@
-# apm-members-trand-search-ui
+# apm-members-trend-search-ui
 
 An AI-powered fashion trend search engine with a generative UI, powered by **Morphic** and **OpenAI**. This system provides advanced capabilities for fashion trend analysis and integrates seamlessly with apM Members.
 
